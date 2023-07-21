@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing Web Applications and developing scripts for automated testing.<br>👯 I’m looking to collaborate on part time projects.<br>🤝 I’m looking for help with my carreer.<br>🌱 I’m currently learning automation and test automation.<br>💬 Ask me about anything.<br>⚡ Fun fact: I like software development as much as software testing.
+🔭 I’m currently focused on developing Web Applications and creating scripts for automated testing.<br>👯 I’m open to collaboration on full-time/part-time projects that offer exciting challenges and opportunities for growth.<br>💼 I am also actively seeking opportunities for hiring, as I am eager to contribute my skills and experience to organizations that value innovation and teamwork.<br>🌱 I’m currently immersed in learning automation and test automation to enhance my skill set.<br>💬 Ask me about anything related to software development and testing.<br>⚡ Fun fact: I find equal passion in software development and software testing, appreciating the intricacies of both domains.
 
 
 ## 🌐 Socials:
