@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats:
 <!-- Total commits, contributions, and languages -->
-[![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1)](https://github.com/AndreiBanu1/github-readme-activity-graph)
+[![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1&theme=react)](https://github.com/AndreiBanu1/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
