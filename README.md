@@ -39,14 +39,14 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AndreiBanu1&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndreiBanu1&theme=onedark)](https://github.com/AndreiBanu1/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-![Dev Meme](https://i.imgur.com/YourMemeImage.png)
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 ---
