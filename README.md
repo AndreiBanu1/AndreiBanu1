@@ -35,9 +35,7 @@
 
 # 📊 GitHub Stats:
 <!-- Total commits, contributions, and languages -->
-![](https://github-readme-stats.vercel.app/api?username=AndreiBanu1&theme=dracula&hide_border=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndreiBanu1&theme=dark) <!-- this may fail, see below -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiBanu1&theme=dracula&hide_border=false&layout=compact)
+[![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1)](https://github.com/AndreiBanu1/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
