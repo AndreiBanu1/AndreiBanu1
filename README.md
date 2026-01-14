@@ -38,10 +38,6 @@
 [![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1&theme=react)](https://github.com/AndreiBanu1/github-readme-activity-graph)
 
 
-## 🏆 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
