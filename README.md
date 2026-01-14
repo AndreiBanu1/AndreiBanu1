@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently focused on developing Web Applications and creating scripts for automated testing.<br>👯 I’m open to collaboration on full-time/part-time projects that offer exciting challenges and opportunities for growth.<br>💼 I am also actively seeking opportunities for hiring, as I am eager to contribute my skills and experience to organizations that value innovation and teamwork.<br>🌱 I’m currently immersed in learning automation and test automation to enhance my skill set.<br>💬 Ask me about anything related to software development and testing.<br>⚡ Fun fact: I find equal passion in software development and software testing, appreciating the intricacies of both domains.
+🔭 I’m a Software Engineer & QA Automation Engineer, building robust web applications and crafting automated testing frameworks.  
+👯 I’m open to collaboration on projects that involve innovative software solutions or challenging automation tasks.  
+💼 Actively seeking opportunities to contribute my skills in automation, full-stack development, and quality engineering to forward-thinking teams.  
+🌱 Currently deepening my expertise in test automation, Playwright, Selenium, CI/CD pipelines, and modern web technologies.  
+💬 Ask me about software development, QA automation, or best practices in testing and code quality.  
+⚡ Fun fact: I’m equally passionate about coding and testing, enjoying the challenge of delivering reliable, scalable, and high-quality software.
 
 
 ## 🌐 Socials:
