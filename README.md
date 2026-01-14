@@ -38,9 +38,8 @@
 [![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1&theme=react)](https://github.com/AndreiBanu1/github-readme-activity-graph)
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndreiBanu1&theme=onedark)](https://github.com/AndreiBanu1/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 ### ✍️ Random Dev Quote
