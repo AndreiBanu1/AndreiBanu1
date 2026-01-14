@@ -40,6 +40,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreiBanu1&theme=onedark)](https://github.com/AndreiBanu1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
