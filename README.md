@@ -4,7 +4,7 @@ Software engineer working on AI and developer tooling — Claude agents, MCP, Ty
 
 I build the tooling the engineers around me use day to day: an agent-driven Playwright
 framework that plans, writes and repairs test suites, a bot that reviews pull requests,
-and a CLI that provisions test accounts. Before that, I Built web applications using 
+and a CLI that provisions test accounts. Before that, I built web applications using 
 Angular, React and backend services with NodeJS.
 
 Ask me about agent design, MCP, or what actually breaks when you put an agent into a
