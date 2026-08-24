@@ -1,6 +1,6 @@
 ## About
 
-Software engineer working on AI and developer tooling — Claude agents, MCP, TypeScript. Bucharest.
+Software engineer working on AI and developer tooling — Claude agents, MCP, TypeScript.
 
 I build the tooling the engineers around me use day to day: an agent-driven Playwright
 framework that plans, writes and repairs test suites, a bot that reviews pull requests,
