@@ -1,53 +1,50 @@
-# 💫 About Me:
-🔭 I’m a Software Engineer & QA Automation Engineer, building robust web applications and crafting automated testing frameworks.  
-👯 I’m open to collaboration on projects that involve innovative software solutions or challenging automation tasks.  
-💼 Actively seeking opportunities to contribute my skills in automation, full-stack development, and quality engineering to forward-thinking teams.  
-🌱 Currently deepening my expertise in test automation, Playwright, Selenium, CI/CD pipelines, and modern web technologies.  
-💬 Ask me about software development, QA automation, or best practices in testing and code quality.  
-⚡ Fun fact: I’m equally passionate about coding and testing, enjoying the challenge of delivering reliable, scalable, and high-quality software.
+## About
 
+Software engineer working on AI and developer tooling — Claude agents, MCP, TypeScript. Bucharest.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreicristianbanu97) 
+I build the tooling the engineers around me use day to day: an agent-driven Playwright
+framework that plans, writes and repairs test suites, a bot that reviews pull requests,
+and a CLI that provisions test accounts. Before that, Java and Spring Boot REST services
+migrated onto Azure and PostgreSQL at Kyndryl.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I'm one of 12 AI champions in a 60+ person engineering organisation — biweekly sessions,
+recorded demos, and the internal guides for using Claude in real engineering work.
+
+Ask me about agent design, MCP, or what actually breaks when you put an agent into a
+workflow people depend on.
+
+**Latest:** [playwright-suite-skills](https://github.com/AndreiBanu1/playwright-suite-skills)
+— 13 skills and 4 subagents that give Claude Code a working method for Playwright suites.
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreicristianbanu97)
+[![Website](https://img.shields.io/badge/andreibanu.xyz-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://andreibanu.xyz/)
+
+## Tech
+
+**AI & agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+**Building & running**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![Appium](https://img.shields.io/badge/Appium-3B9AE1?style=for-the-badge&logo=appium&logoColor=white)
-![K6](https://img.shields.io/badge/K6-000000?style=for-the-badge&logo=k6&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23007ACC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+## Activity
 
-# 📊 GitHub Stats:
-<!-- Total commits, contributions, and languages -->
-[![AndreiBanu1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1&theme=react)](https://github.com/AndreiBanu1/github-readme-activity-graph)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=AndreiBanu1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreiBanu1&theme=react)](https://github.com/AndreiBanu1)
