@@ -12,8 +12,8 @@ workflow people depend on.
 
 **Latest:** [playwright-suite-skills](https://github.com/AndreiBanu1/playwright-suite-skills)
 — 13 skills and 4 subagents that give Claude Code a working method for Playwright suites.
-[romania-job-aggregator](https://github.com/AndreiBanu1/romania-job-aggregator)
-- searches several Romanian job boards at once and shows the combined, deduplicated results in one sortable table — instead of running the same query on three sites and comparing tabs by hand.
+
+[romania-job-aggregator](https://github.com/AndreiBanu1/romania-job-aggregator) - searches several Romanian job boards at once and shows the combined, deduplicated results in one sortable table — instead of running the same query on three sites and comparing tabs by hand.
 
 ## Links
 
